@@ -9,7 +9,7 @@ on:
       test:
         description: "Enviar notificación de prueba"
         type: boolean
-        default: true
+        default: false
 
 permissions:
   contents: write
