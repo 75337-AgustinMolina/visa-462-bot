@@ -1,8 +1,8 @@
 {
   "error_notified": false,
-  "page_last_updated": "1/10/2026 11:02 AM",
-  "page_last_updated_iso": "2026-10-01T11:02:00",
-  "status": "paused",
-  "changed_at": "2026-09-30T14:32:24+00:00",
+  "page_last_updated": "2/10/2026 11:12 AM",
+  "page_last_updated_iso": "2026-10-02T11:12:00",
+  "status": "open",
+  "changed_at": "2026-10-02T01:15:45+00:00",
   "heartbeat_at": "2026-09-29T17:35:18+00:00"
 }
